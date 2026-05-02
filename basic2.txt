@@ -1,0 +1,10 @@
+practising to create the file under the foldr 
+
+mkdir --> new directory
+cd --> checking directory
+touch -->create a file
+nano -->edite the file or add the content  --> then click control + x then y and enter
+cat -->to see what you have in the file
+cd -->to go back one directory
+pwd --> check the working directory
+is -->is to check the file is created 
