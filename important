@@ -1,0 +1,11 @@
+git init -->used to create a new Git repository in your current folder.
+git config user.name"kaviya-->sets your name for commits
+git config user.email"kaviyakaviyam0@gmail.com-->sets your email for commits 
+git status-->hows the current condition of your project.
+git add.basic2.txt-->track this file and prepare it for commit.
+git status
+git add.-->add 100s of files to commite
+git status
+git commit -m"write the content"
+git status
+
