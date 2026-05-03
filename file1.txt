@@ -1,0 +1,1 @@
+oppen git link and create the new repositry and  copy the repositry link then go back to terminal and past it
