@@ -1,0 +1,7 @@
+to create branches we need to type the commant
+git branch
+git branch feature_demo
+git branch
+git checkout feature_demo
+git push -u origin feature_demo
+go back to the git web and refresh it
